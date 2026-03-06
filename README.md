@@ -18,13 +18,13 @@ Frontend Developer in training | Learning Vue.js, JavaScript, TypeScript & Tailw
 
 ---
 
-### 📊 Learning Progress (Estimation)
+### 📚 Learning Focus
 
-- Vue.js: ![60%](https://img.shields.io/badge/Vue.js-60%25-42b883)
-- JavaScript: ![50%](https://img.shields.io/badge/JavaScript-50%25-F7DF1E?logo=javascript&logoColor=black)
-- TypeScript: ![50%](https://img.shields.io/badge/TypeScript-50%25-3178c6)
-- Tailwind CSS: ![40%](https://img.shields.io/badge/Tailwind%20CSS-40%25-06b6d4)
-- Axios / API calls: ![30%](https://img.shields.io/badge/Axios-30%25-5A29E4)
+- Vue.js (components & reactivity)  
+- JavaScript fundamentals & DOM manipulation  
+- TypeScript basics (functions & interfaces)  
+- Tailwind CSS styling & responsive design  
+- Axios / API requests and integration
 
 ---
 
