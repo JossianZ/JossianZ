@@ -4,7 +4,7 @@ Frontend Developer in training | Learning Vue.js, TypeScript & Tailwind CSS
 
 - 🌱 Currently learning Vue.js, TypeScript, and Tailwind CSS  
 - 💬 Interested in frontend best practices and building small projects  
-- 📫 Reach me at: serhat@example.com  
+- 📫 Reach me at: serhatyigitfamiky@gmail.com  
 
 ---
 
