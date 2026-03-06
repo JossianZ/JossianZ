@@ -1,6 +1,6 @@
 # Hi, I'm Serhat 👋
 
-Frontend Developer in training | Learning Vue.js, JavaScript, TypeScript, HTML & Tailwind CSS  
+**🌟 Frontend Developer in training** | Learning Vue.js, JavaScript, TypeScript, HTML & Tailwind CSS  
 
 🌱 Currently learning Vue.js, JavaScript, TypeScript, HTML, and Tailwind CSS  
 💬 Interested in frontend best practices and building small projects  
