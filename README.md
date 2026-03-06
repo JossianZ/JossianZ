@@ -1,9 +1,9 @@
 # Hi, I'm Serhat 👋
 
 **🌟 Frontend Developer in training** | Learning Vue.js, JavaScript, TypeScript, HTML & Tailwind CSS  
-
-🌱 Currently learning Vue.js, JavaScript, TypeScript, HTML, and Tailwind CSS  
-💬 Interested in frontend best practices and building small projects  
+💻 Exploring backend basics (Node.js, APIs)  
+🌱 Currently improving my frontend skills and learning backend fundamentals  
+💬 Passionate about building responsive UIs and small full-stack projects  
 📫 Reach me at: serhatyigitfamiky@gmail.com  
 
 ---
@@ -15,6 +15,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=f06529)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06b6d4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=38bdf8)
 ![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white&labelColor=7f00ff)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=2c3e50)
 
 ---
 
