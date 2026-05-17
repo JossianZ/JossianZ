@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Serhat (JossianZ) ✨
+#  Serhat (JossianZ) 
 ### 🚀 Full-Stack Developer in Training
 *Building modern, scalable web applications from frontend to backend.*
 
