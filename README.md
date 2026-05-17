@@ -1,11 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Serhat (JossianZ)
+<img src="https://capsule-render.vercel.app/type=waving&color=auto&height=220&section=header&text=Serhat%20(JossianZ)&subtitle=Full-Stack%20Developer%20in%20Training&fontSize=40&subFontSize=20&animation=fadeIn" alt="Header" />
 
-### 🚀 Full-Stack Developer in Training
-*Building modern, scalable web applications from frontend to backend.*
-
----
+<br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serhatyigitfamiky@gmail.com)
 [![GitHub Followers](https://img.shields.io/github/followers/JossianZ?label=Follow&style=for-the-badge&color=222&logo=github)](https://github.com/JossianZ)
@@ -44,11 +41,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JossianZ&show_icons=true&theme=visual_studio_code&count_private=true&hide_border=true" alt="Serhat's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JossianZ&layout=compact&theme=visual_studio_code&hide_border=true" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JossianZ&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
