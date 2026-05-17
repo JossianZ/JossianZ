@@ -1,23 +1,61 @@
-# Hi, I'm Serhat 👋
+<div align="center">
 
-**🌟 Frontend Developer in training** | Learning Vue.js, JavaScript, TypeScript, HTML & Tailwind CSS  
-💻 Exploring backend basics (Node.js, APIs)  
-🌱 Currently improving my frontend skills and learning backend fundamentals  
-💬 Passionate about building responsive UIs and small full-stack projects  
-📫 Reach me at: serhatyigitfamiky@gmail.com  
+# 👋 Hi, I'm Serhat (JossianZ)
+
+### 🚀 Full-Stack Developer in Training
+*Building modern, scalable web applications from frontend to backend.*
+
+---
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serhatyigitfamiky@gmail.com)
+[![GitHub Followers](https://img.shields.io/github/followers/JossianZ?label=Follow&style=for-the-badge&color=222&logo=github)](https://github.com/JossianZ)
+
+</div>
+
+---
+
+### 📖 About Me
+
+- 💻 **Focus:** Crafting seamless user experiences with **Vue.js & Next.js** while building robust backends using **C# / .NET** and **Node.js**.
+- 🌱 **Learning:** Deepening my knowledge in full-stack architecture, API design, and clean code principles.
+- 💬 **Passionate about:** Performance optimization, responsive UI design, and turning complex problems into elegant solutions.
 
 ---
 
 ### 🛠 Tech Stack
-![Vue.js](https://img.shields.io/badge/-Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=2c3e50)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=f1c40f)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=4b6cb7)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=f06529)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06b6d4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=38bdf8)
-![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white&labelColor=7f00ff)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=2c3e50)
+
+#### 💻 Frontend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/-Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=2c3e50" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-06b6d4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+</p>
+
+#### ⚙️ Backend & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
+</p>
 
 ---
 
-### 👀 Visitor Count
-![Visitor Count](https://komarev.com/ghpvc/?username=JossianZ&style=flat-square)
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JossianZ&show_icons=true&theme=visual_studio_code&count_private=true&hide_border=true" alt="Serhat's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JossianZ&layout=compact&theme=visual_studio_code&hide_border=true" alt="Top Languages" height="180px" />
+</div>
+
+---
+
+<div align="center">
+
+### 👀 Profile Views
+![Visitor Count](https://komarev.com/ghpvc/?username=JossianZ&style=flat-square&color=blue)
+
+</div>
