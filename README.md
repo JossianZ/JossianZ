@@ -39,8 +39,12 @@
   <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-Lua-000080?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
   <img src="https://img.shields.io/badge/-Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
+</p>
+
+#### 🌙 Scripting & Automation
+<p align="left">
+  <img src="https://img.shields.io/badge/-Lua%20(Roblox)-000080?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
 </p>
 
 ---
